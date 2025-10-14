@@ -3,7 +3,7 @@
 
 README.md from `HPCTrainingExamples/Pragma_Examples/OpenMP/Fortran/1_saxpy` in the Training Examples repository
 
-This exercise will show in a step by step solution how to port a your first kernels. 
+This exercise will show in a step by step solution how to port your first kernels. 
 This simple example will not use a Makefile to practice how to compile for the GPU or APU. 
 All following exercises will use a Makefile.
 
