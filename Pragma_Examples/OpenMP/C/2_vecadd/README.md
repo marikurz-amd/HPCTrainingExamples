@@ -49,7 +49,7 @@ Move data only were necessary a structured data region is used here, set ```expo
 
 #### 4) with unified shared memory and asynchronous execution
 ```
-4_vecadd_async_usm
+4_vecadd_usm_async
 ```
 Build and run like above.
 Unified memory version with asynchronous OpenMP kernel calls. Don't forget to set ```export HSA_XNACK=1```.
